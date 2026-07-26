@@ -1,7 +1,7 @@
 # Hello, I'm Allen
 <a href="https://www.linkedin.com/in/aakleyble/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Information Technology graduate majoring in Cybersecurity, with a strong interest in SAP systems and a dedication to solving complex security problems.
+I am a recent Information Technology graduate majoring in Cybersecurity, with hands-on experience in security monitoring, threat detection, and access control, and a growing interest in Information Security and Governance, Risk, and Compliance.
 
 ## Objective
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to build a career in this field, specifically aiming to join a Security Operations Center (SOC), Security Engineering team, or GRC / Application Security practice as an entry-level analyst.
@@ -60,4 +60,3 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Projects
 - <a href="https://github.com/Krumish/SOC-Detection-Environment">Home Lab: SOC Detection Environment (Active Directory + Splunk + Atomic Red Team)</a>
 - <a href="https://github.com/Krumish/GARDIAN">Gardian: Visual Assessment & Reporting System</a>
-- KuryenTECH: Meralco IDOL Hackathon Project
