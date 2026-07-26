@@ -9,10 +9,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Skills
 | Skill                                              | Associated Project         |
 |-----------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis                | <a href="#">Home Lab: SOC Detection Environment</a>|
-| Active Directory Administration                     | <a href="#">Home Lab: SOC Detection Environment</a>|
-| Credential Attack Simulation (Brute-Force Testing)  | <a href="#">Home Lab: SOC Detection Environment</a>|
-| Adversary Simulation (MITRE ATT&CK)                 | <a href="#">Home Lab: SOC Detection Environment</a>|
+| SIEM Implementation and Log Analysis                | <a href="https://github.com/Krumish/SOC-Detection-Environment">Home Lab: SOC Detection Environment</a>|
+| Active Directory Administration                     | <a href="https://github.com/Krumish/SOC-Detection-Environment">Home Lab: SOC Detection Environment</a>|
+| Credential Attack Simulation (Brute-Force Testing)  | <a href="https://github.com/Krumish/SOC-Detection-Environment">Home Lab: SOC Detection Environment</a>|
+| Adversary Simulation (MITRE ATT&CK)                 | <a href="https://github.com/Krumish/SOC-Detection-Environment">Home Lab: SOC Detection Environment</a>|
 | Role-Based Access Control (RBAC) & Authentication   | <a href="https://github.com/Krumish/GARDIAN">Gardian: Visual Assessment & Reporting System</a>|
 
 ## Tools
@@ -58,7 +58,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Home Lab: SOC Detection Environment (Active Directory + Splunk + Atomic Red Team)
-- Independent Practice: Vulnerability Assessment & SIEM
-- Gardian: Visual Assessment & Reporting System
+- <a href="https://github.com/Krumish/SOC-Detection-Environment">Home Lab: SOC Detection Environment (Active Directory + Splunk + Atomic Red Team)</a>
+- <a href="https://github.com/Krumish/GARDIAN">Gardian: Visual Assessment & Reporting System</a>
 - KuryenTECH: Meralco IDOL Hackathon Project
