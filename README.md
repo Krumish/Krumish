@@ -1,7 +1,7 @@
 # Hello, I'm Allen
 <a href="https://www.linkedin.com/in/aakleyble/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent Information Technology graduate majoring in Cybersecurity, with hands-on experience in security monitoring, threat detection, and access control, and a growing interest in Information Security and Governance, Risk, and Compliance.
+I am a recent Information Technology graduate majoring in Cybersecurity, with hands-on experience in security monitoring, threat detection, and access control, and a growing interest in InfoSec, and GRC
 
 ## Objective
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to build a career in this field, specifically aiming to join a Security Operations Center (SOC), Security Engineering team, or GRC / Application Security practice as an entry-level analyst.
